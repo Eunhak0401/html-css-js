@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>웹 폼 삽입하기
+    </title>
+</head>
+<body>
+    <from action="">
+        <fieldset>
+        <p><b>주문할 상품을 선택해 주세요</b></p>
+        <ul id="shipping">
+            <li>
+                <label for="prod"><input type="checkbox" value="s_3">상품용 3kg</label>
+                <input type="number" min="0" max="10" value="1">
+            </li>
+            <li>
+                <label for="user-name"><input type="checkbox" value="f_3">이름</label>
+                <input type="range" min="0" max="10" value="1">  
+            </li>
+            <li>
+                <label for="addr"> 배송 주소</label>
+                <input type="text" id="addr">
+            </li>
+            <li>
+                <label for="mail">이메일</label>
+                <input type="text" id="mail">
+            </li>
+            <li>
+                <label for="phone">연락처</label>
+                <input for="tel" id="phone">
+            </li>
+        </fieldset>
+        </ul>
+    </from>
+    
+</body>
+</html>
