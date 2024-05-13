@@ -2,7 +2,6 @@
 nav
 .nav_content_container
 #meue */
-
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +11,6 @@ nav{ /* 속성 / 값 */
     border-bottom: 1px solid #e8e8e8;
     padding: 20px 0px; /* px값은 시계 방향으로 돈다 */
 }
-
 div.nav_content_container{
     width: 1200px;
     margin: 0 auto;
@@ -22,7 +20,6 @@ div.nav_content_container{
 h2.logo{
     color: #ff7a00;
     margin-right: 40px;
-
 }
 div.menu > a{
     text-decoration: none;
@@ -34,7 +31,7 @@ color: black;
 }
 div.menu > a:nth-child(2){
     color: blue;
-    }
+}
 .banner_container{
     margin-top: 40px;
 }
