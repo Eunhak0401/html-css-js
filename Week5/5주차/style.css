@@ -60,6 +60,9 @@ div.back {
 .call {
   display: flex;
   align-items: flex-end;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 
@@ -80,7 +83,23 @@ div.back {
 .email {
   display: flex;
   align-items: flex-end;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.in_box4 {
+  width: 269px;
+  height: 55px;
+  border: 1px solid black;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 70px;
+  border-bottom: none;
+  border-right: none;
+  border-top: none;
 }
 
 .location {
