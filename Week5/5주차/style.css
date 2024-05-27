@@ -11,7 +11,7 @@ div.front {
 div.back {
   width: 900px;
   height: 500px;
-  border: 1px solid black;
+  border: 1px solid #eee;
   display: stretch;
   padding: 10px;
 }
