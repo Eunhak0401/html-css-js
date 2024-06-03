@@ -69,4 +69,52 @@
 .second_box_text4 {
     margin-top: 40px;
     margin-left: 20px;
+
+}
+
+.third_box {
+    padding-top: 100px;
+    height: 385px;
+
+}
+
+.third_box_text {
+    color: #0085FF;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.third_box_text2 {
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+.third_gray_box {
+    display: flex;
+    margin-top: 40px;
+
+}
+
+.one_gray_box_first {
+    font-size: 18px;
+}
+
+.one_gray_box {
+    margin-left: 20px;
+}
+
+.gray_box_text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.gray_box_text2 {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.gray_box_text1 {
+    font-size: 18px;
+    margin-top: 10px;
 }
