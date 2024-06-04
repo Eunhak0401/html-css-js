@@ -118,3 +118,41 @@
     font-size: 18px;
     margin-top: 10px;
 }
+
+.four_box {
+    padding-top: 100px;
+    height: 385px;
+}
+
+.four_box_text1 {
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 28px;
+    color: #0085FF;
+}
+
+.four_box_text2 {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.button {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.center-text {
+    text-align: center;
+    font-size: 100px;
+}
+
+.four_gradation_box {
+    width: 10px;
+    height: 141px;
+    border: 10px solid #0085FF;
+    -webkit-background-clip: border-box;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+
+}
