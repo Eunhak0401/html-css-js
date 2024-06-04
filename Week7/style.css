@@ -161,6 +161,7 @@
     border-right: none;
     background: conic-gradient(blue, white);
     display: flex;
+
 }
 
 .five_box {
@@ -186,4 +187,13 @@
     font-size: 16px;
     color: #ffffff;
     font-weight: lighter;
+}
+
+.four_box_text3 {
+    margin-left: 50px;
+}
+
+.four_box_text4 {
+    font-weight: bold;
+    margin-left: 10px;
 }
