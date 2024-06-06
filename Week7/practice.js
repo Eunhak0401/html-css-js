@@ -1,3 +1,4 @@
+/*
 alert("이 페이지는 이은학님의 웹 페이지입니다!")
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -14,3 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
         button.addEventListener("click", createParagraph);
     }
 });
+*/
+function showAlert() {
+    alert("열심히 하겠습니다!");
+}
