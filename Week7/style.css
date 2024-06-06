@@ -165,7 +165,7 @@
 }
 
 .five_box {
-    margin-top: 100px;
+    margin-top: 300px;
     width: 1915px;
     height: 180px;
     background-color: #707070;
@@ -240,7 +240,8 @@
 .four_big_box {
     border: 1px solid black;
     width: 1200px;
-    height: 282px;
+    height: 382px;
     display: flex;
     justify-content: space-between;
+
 }
