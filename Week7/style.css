@@ -234,11 +234,13 @@
     background-color: #707070;
     width: 624px;
     height: 52px;
-    justify-content: space-between;
+
 }
 
 .four_big_box {
     border: 1px solid black;
     width: 1200px;
     height: 282px;
+    display: flex;
+    justify-content: space-between;
 }
