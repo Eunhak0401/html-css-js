@@ -245,3 +245,15 @@
     justify-content: space-between;
 
 }
+
+.container_box {}
+
+.container {
+    position: relative;
+    display: flex;
+    display: inline-block;
+}
+
+.images8 {
+    display: block;
+}
